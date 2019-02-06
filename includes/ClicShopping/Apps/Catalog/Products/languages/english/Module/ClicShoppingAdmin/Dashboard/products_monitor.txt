@@ -1,0 +1,16 @@
+module_admin_dashboard_products_monitor_app_title = Do you want to install Products Monitor
+module_admin_dashboard_products_monitor_app_description = Display Products Errors in Monitor System
+
+module_admin_dashboard_products_monitor_app_title = Products Monitor
+module_admin_dashboard_products_monitor_app_products_id = Id
+module_admin_dashboard_products_monitor_app_products_name = Products
+module_admin_dashboard_products_monitor_app_products_model = Model
+module_admin_dashboard_products_monitor_app_products_last_modified = Last Modified
+module_admin_dashboard_products_monitor_app_products_errors = Errors Description
+module_admin_dashboard_products_monitor_app_no_model = no model
+module_admin_dashboard_products_monitor_app_no_picture = no picture
+module_admin_dashboard_products_monitor_app_no_tax = no tax class
+module_admin_dashboard_products_monitor_app_no_price = zero price
+module_admin_dashboard_products_monitor_app_no_stock = No stock
+
+module_admin_dashboard_perfect_products = No critical products detected.

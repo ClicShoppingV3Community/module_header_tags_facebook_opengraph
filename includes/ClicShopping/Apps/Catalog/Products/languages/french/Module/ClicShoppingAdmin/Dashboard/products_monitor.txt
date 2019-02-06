@@ -1,0 +1,16 @@
+module_admin_dashboard_products_monitor_app_title = Surveillance des produits
+module_admin_dashboard_products_monitor_app_description = Affiche des informations sur des erreurs identifées concernant les produits
+
+module_admin_dashboard_products_monitor_app_title = Surveillance des produits
+module_admin_dashboard_products_monitor_app_products_id = Id
+module_admin_dashboard_products_monitor_app_products_name = Produits
+module_admin_dashboard_products_monitor_app_products_model = Ref
+module_admin_dashboard_products_monitor_app_products_last_modified = Derniere modification
+module_admin_dashboard_products_monitor_app_products_errors = Description des erreurs
+module_admin_dashboard_products_monitor_app_no_model = Aucune référence
+module_admin_dashboard_products_monitor_app_no_picture = Aucune petite image
+module_admin_dashboard_products_monitor_app_no_tax = Aucune classe de taxes
+module_admin_dashboard_products_monitor_app_no_price = Produit dont le tarif est égal à zéro
+module_admin_dashboard_products_monitor_app_no_stock = Plus de stock
+
+module_admin_dashboard_perfect_products = Aucune erreur n'a été identifiée.
