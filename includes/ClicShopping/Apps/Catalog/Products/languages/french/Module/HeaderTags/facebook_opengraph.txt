@@ -1,0 +1,4 @@
+module_header_tags_product_opengraph_title = Souhaitez vous utiliser Facebook Open Graph Meta Tags dans la description du produit?
+module_header_tags_product_opengraph_description = Ajouter Open graph à votre page de description de produits
+module_header_tags_product_opengraph_text_in_stock = in stock
+module_header_tags_product_opengraph_text_out_of_stock = out of stock

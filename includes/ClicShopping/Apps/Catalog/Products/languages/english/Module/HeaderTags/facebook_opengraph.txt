@@ -1,0 +1,4 @@
+module_header_tags_product_opengraph_title = Do you want to use  Open Graph Meta Tags in products description?
+module_header_tags_product_opengraph_description = Add Open Graph Meta Tags to your product info pages, this is good for Facebook and for Pinterest Rich Pins.
+module_header_tags_product_opengraph_text_in_stock = in stock
+module_header_tags_product_opengraph_text_out_of_stock = out of stock
